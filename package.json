@@ -1,0 +1,23 @@
+{
+  "name": "rakshith_rn_button",
+  "version": "1.0.0",
+  "description": "custom react native button",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RakshithA1996/rnbutton.git"
+  },
+  "keywords": [
+    "react",
+    "react-native"
+  ],
+  "author": "Rakshith Acharya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RakshithA1996/rnbutton/issues"
+  },
+  "homepage": "https://github.com/RakshithA1996/rnbutton#readme"
+}
